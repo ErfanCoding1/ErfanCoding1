@@ -1,7 +1,7 @@
 # Hi, I'm Erfan Shabgir! 
 Masters Student in Hardware Engineering | Embedded Systems & Backend Developer
 
-## 🛠 My Tech Stack
+##  My Tech Stack
 - **Hardware:** AVR, ARM, ESP32, Proteus, SPI/I2C Protocols
 - **Web:** Python, Django, PostgreSQL
 
