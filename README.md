@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Erfan Shabgir! 
+Masters Student in Hardware Engineering | Embedded Systems & Backend Developer
 
-<!--
-**ErfanCoding1/ErfanCoding1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 My Tech Stack
+- **Hardware:** AVR, ARM, ESP32, Proteus, SPI/I2C Protocols
+- **Web:** Python, Django, PostgreSQL
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##  Embedded Systems Projects
+| Project Name | Description | Tech |
+| :--- | :--- | :--- |
+| **Word Clock** | A smart clock using 8x8 LED Matrices & MAX7219 | C, AVR, SPI |
+| **Stepper Motor Control** | Precise control of motors via Microcontrollers | C, Proteus |
+
+##  Django & Python Projects
+- **Project A:** A professional web application using Django.
+- **Project B:** Database management system with PostgreSQL.
