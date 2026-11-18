@@ -10,7 +10,7 @@ Email: [erfan_shabgir@comp.iust.ac.ir](mailto:erfan_shabgir@comp.iust.ac.ir) | R
 * **Autonomous Vehicle Localization & State Estimation** (Factor Graph Optimization, Multi-Sensor Fusion)
 * **Fault-Tolerant Cyber-Physical Systems (CPS)** (Online Anomaly Detection, Fuzzy Supervisory Control)
 * **Energy-Aware Embedded Computing** (Dynamic Voltage and Frequency Scaling, Sensor Power Gating)
-* **Embedded Systems & Digital Design** (Microcontroller Firmware, Real-Time Control, FPGA/VHDL)
+* **Embedded Systems & Real-Time Firmware** (Microcontroller Architectures, Low-Level Control, Hardware-Software Co-Design)
 
 ---
 
@@ -27,7 +27,7 @@ Email: [erfan_shabgir@comp.iust.ac.ir](mailto:erfan_shabgir@comp.iust.ac.ir) | R
 ### Technical Skills & Toolchain
 
 * **Robotics, Simulation & Optimization:** Python, PyTorch, CARLA Simulator, Open3D, OpenCV, SciPy, Optuna, scikit-fuzzy, MATLAB/Simulink
-* **Embedded Systems & Hardware:** Embedded C/C++, AVR, ARM, ESP32, Xilinx ISE (VHDL), Proteus, SPI/I2C/UART Protocols
+* **Embedded Systems & Hardware:** Embedded C/C++, AVR, ARM, ESP32, Proteus, SPI/I2C/UART Protocols
 * **Software & Backend Development:** Django, PostgreSQL, Git, Linux, LaTeX
 
 ---
